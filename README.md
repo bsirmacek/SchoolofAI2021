@@ -1,5 +1,5 @@
 # SchoolofAI2021
-School of AI The Netherlands montly lectures
+School of AI The Netherlands monthly lectures
 
 # The new website and all upcoming lecture announcements:
 https://sites.google.com/view/schoolofai2021/home
