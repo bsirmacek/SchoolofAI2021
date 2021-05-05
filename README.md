@@ -26,4 +26,13 @@ Guest Speaker: Dr. Carl Gold, Topic: Fighting Churn with Data
 
 Prior to the lecture:
 Please watch Carl's presentation: https://youtu.be/3JhmQhG_ogc
+
 Access to Carl's repo where he has the data sets for the handson hour: https://github.com/carl24k/fight-churn
+
+# Lecture 4 ~ April 2021
+Guest Speaker: Dr. Chris Mattmann ~ Unlocking the power of space for explaration NASA JPL 
+https://youtu.be/Cdr8W5Cy434
+
+
+Guest Speaker: Vaibhav Verdhan ~ Becoming an AI/ML scientist with a strong profile 
+https://youtu.be/PK4whZRrtDw
