@@ -36,3 +36,14 @@ https://youtu.be/Cdr8W5Cy434
 
 Guest Speaker: Vaibhav Verdhan ~ Becoming an AI/ML scientist with a strong profile 
 https://youtu.be/PK4whZRrtDw
+
+
+# Lecture 5 ~ June 2021
+Guest Speaker: Bina Ramamurthy ~ Blockchain Hands-on Lecture https://youtu.be/dAZHxoYTSJU
+
+Slides and installation guides: https://github.com/bsirmacek/SchoolofAI2021/tree/main/BlockchainNotes
+
+
+Guest Speaker: Ben Wilson ~ Machine Learning in Real Life Applications https://youtu.be/T3rPQRiyPG0
+
+
