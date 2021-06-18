@@ -48,3 +48,7 @@ Guest Speaker: Ben Wilson ~ Machine Learning in Real Life Applications https://y
 
 
 # Lecture 6 ~ June 2021
+Guest Speaker:  Peter Elger ~ AI as a Service ~ https://youtu.be/pxGII2tLXtY
+
+
+Guest Speaker:  Dave Bechberger ~ Graph Databases in action ~ https://youtu.be/SLKW5Q_URq4
