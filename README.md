@@ -52,3 +52,12 @@ Guest Speaker:  Peter Elger ~ AI as a Service ~ https://youtu.be/pxGII2tLXtY
 
 
 Guest Speaker:  Dave Bechberger ~ Graph Databases in action ~ https://youtu.be/SLKW5Q_URq4
+
+
+# Lecture 7 ~ July 2021
+Guest Speaker:  Luis Serrano ~ Quantum Machine Learning ~ https://youtu.be/1QJgT3c032I
+
+
+# Lecture 8 ~ August 2021
+Guest Speaker:  José Haro Peralta ~ Microservice APIs in Python ~ https://youtu.be/Z1qf05-lipQ
+ 
