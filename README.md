@@ -60,4 +60,8 @@ Guest Speaker:  Luis Serrano ~ Quantum Machine Learning ~ https://youtu.be/1QJgT
 
 # Lecture 8 ~ August 2021
 Guest Speaker:  José Haro Peralta ~ Microservice APIs in Python ~ https://youtu.be/Z1qf05-lipQ
+
+Guest Speaker: Cengiz Avci ~ Cengiz Avci ~ Google Earth Engine & ML & Remote Sensing & Climate ~ https://youtu.be/S-fM9ST2PjI
+
+Guest Speaker: Sayak Paul ~ Model Optimization 101 ~ https://youtu.be/5GZyu882a8g
  
