@@ -65,3 +65,13 @@ Guest Speaker: Cengiz Avci ~ Cengiz Avci ~ Google Earth Engine & ML & Remote Sen
 
 Guest Speaker: Sayak Paul ~ Model Optimization 101 ~ https://youtu.be/5GZyu882a8g
  
+
+# Lecture 9 ~ October 2021
+Guest Speaker:  Park Chansung ~ Vertex AI ~ https://youtu.be/PwAuYHZnT48
+
+Lecture slides: https://docs.google.com/presentation/d/1i0HqIs3JAQir2OnlXnxVX4e1BmlK--9FnXzpHPzMe2w/edit?usp=sharing&resourcekey=0-VOvVaFiIpU62Dsyp1daoqA
+
+
+# Lecture 10 ~ November 2021
+Guest Speaker:  Sérgio Jesus ~ eXplainable AI ~ coming
+ 
